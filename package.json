@@ -1,13 +1,20 @@
 {
 	"name": "promise",
 	"version": "1.0.0",
-	"description": "[https://github.com/promises-aplus](https://github.com/promises-aplus)",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"c": "commit.cmd"
 	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://study5456:sw1260593926@github.com/study5456/study-promise.git"
+	},
 	"keywords": [],
 	"author": "shuwang",
-	"license": "MIT"
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/study5456/study-promise/issues"
+	},
+	"homepage": "https://github.com/study5456/study-promise#readme"
 }

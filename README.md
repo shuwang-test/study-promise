@@ -1,3 +1,5 @@
+# study promise
+
 [mdn-promise](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Using_promises)
 
 [promises-aplus](https://github.com/promises-aplus)
